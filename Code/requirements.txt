@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+google-api-python-client
+pandas-profiling
+googletrans==4.0.0-rc1
+vaderSentiment
+wordcloud
+matplotlib
